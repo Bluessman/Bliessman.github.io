@@ -1,0 +1,7 @@
+# Megatrush Pokemon
+
+> PokéCraft Realm — server Minecraft survival bertema Pokémon. Tangkap monster, bangun base, ikut event mingguan.
+
+## Pages
+
+- [Home](/): Landing page server PokéCraft Realm dengan info fitur dan formulir pendaftaran member.
